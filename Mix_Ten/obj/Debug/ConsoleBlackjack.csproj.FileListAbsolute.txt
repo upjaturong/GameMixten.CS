@@ -1,0 +1,14 @@
+C:\Users\WiN 10 V.2\source\repos\ConsoleBlackjack\ConsoleBlackjack\obj\Debug\ConsoleBlackjack.csprojAssemblyReference.cache
+C:\Users\WiN 10 V.2\source\repos\ConsoleBlackjack\ConsoleBlackjack\obj\Debug\ConsoleBlackjack.csproj.CoreCompileInputs.cache
+C:\Users\WiN 10 V.2\source\repos\ConsoleBlackjack\ConsoleBlackjack\bin\Debug\ConsoleBlackjack.exe.config
+C:\Users\WiN 10 V.2\source\repos\ConsoleBlackjack\ConsoleBlackjack\bin\Debug\ConsoleBlackjack.exe
+C:\Users\WiN 10 V.2\source\repos\ConsoleBlackjack\ConsoleBlackjack\bin\Debug\ConsoleBlackjack.pdb
+C:\Users\WiN 10 V.2\source\repos\ConsoleBlackjack\ConsoleBlackjack\obj\Debug\ConsoleBlackjack.exe
+C:\Users\WiN 10 V.2\source\repos\ConsoleBlackjack\ConsoleBlackjack\obj\Debug\ConsoleBlackjack.pdb
+C:\Users\up199\Desktop\ConsoleBlackjack\ConsoleBlackjack\bin\Debug\ConsoleBlackjack.exe.config
+C:\Users\up199\Desktop\ConsoleBlackjack\ConsoleBlackjack\bin\Debug\ConsoleBlackjack.exe
+C:\Users\up199\Desktop\ConsoleBlackjack\ConsoleBlackjack\bin\Debug\ConsoleBlackjack.pdb
+C:\Users\up199\Desktop\ConsoleBlackjack\ConsoleBlackjack\obj\Debug\ConsoleBlackjack.csprojAssemblyReference.cache
+C:\Users\up199\Desktop\ConsoleBlackjack\ConsoleBlackjack\obj\Debug\ConsoleBlackjack.csproj.CoreCompileInputs.cache
+C:\Users\up199\Desktop\ConsoleBlackjack\ConsoleBlackjack\obj\Debug\ConsoleBlackjack.exe
+C:\Users\up199\Desktop\ConsoleBlackjack\ConsoleBlackjack\obj\Debug\ConsoleBlackjack.pdb
